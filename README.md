@@ -2,7 +2,7 @@
 
 I'm a computer science PhD student at MIT working on dynamics identification, geometric algebra, and graph representation learning.
 
-- Personal website: [hungryamoeba.github.io](https://hungryamoeba.github.io)
+- Personal website: [hungryamoeba.github.io](https://charlesxu.com)
 - Google Scholar: [View my publications](https://scholar.google.com/citations?hl=en&user=1UWmkzIAAAAJ)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HungryAmoeba&layout=compact&hide=jupyter%20notebook&hide_progress=true)
